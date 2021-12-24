@@ -1,3 +1,5 @@
 ## README HEADER
 
-testing shit
+#### Local Development
+
+Open index.html in your browser
